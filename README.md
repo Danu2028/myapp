@@ -56,7 +56,7 @@ git merge (Brunch Name)git merge login
 
 Remote Repository
 
-copy link  git remote add origin https://github.com/Danu2028/myapp.git
+copy link  git remote add origin https://github.com/username/myapp.git
 
 and 
 
@@ -66,7 +66,7 @@ git push -u origin main
 
 change the repository link 
 
-git remote set-url origin https://github.com/Danu2028/myapp.git (new url)
+git remote set-url origin https://github.com/username/myapp.git (new url)
 
 readme file 
 
